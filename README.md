@@ -32,9 +32,4 @@ Run it with the command `./gradlew bootRun`
 
 Open the [http://localhost:8080](http://localhost:8080) and you should see the webpage.<br/>
 
-#### Demo application
-
-Deployed to **Heroku** with a tiny-yolo model: https://still-crag-64816.herokuapp.com/
-
-
 
